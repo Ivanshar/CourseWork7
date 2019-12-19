@@ -1,0 +1,15 @@
+by\iba\integration\objects\SalesOrderItem.class
+by\iba\integration\telegram\longpolling\TelegramBot.class
+by\iba\integration\oData\OData.class
+by\iba\integration\objects\SalesOrder.class
+by\iba\integration\dataBase\repos\MessageRepo.class
+by\iba\integration\telegram\longpolling\Executer.class
+by\iba\integration\Application.class
+by\iba\integration\dataBase\domain\Message.class
+by\iba\integration\web\GreetingController.class
+by\iba\integration\myViber\ViberBotMain$BotConfiguration.class
+by\iba\integration\myViber\ViberBotMain.class
+by\iba\integration\telegram\longpolling\CallBackHandler.class
+by\iba\integration\dataBase\domain\UsersID.class
+by\iba\integration\telegram\longpolling\MessageSender.class
+by\iba\integration\dataBase\repos\UsersIDRepo.class

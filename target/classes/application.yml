@@ -1,0 +1,17 @@
+server:
+  port: 8080
+  ssl:
+    enabled: false
+    key-alias: false
+    key-store: "path/to/cert.jks"
+    key-store-password: "password"
+
+application.viber-bot:
+  auth-token: "49f6c70a8927d399-ba74d979e50eed59-bce6e7eddbff0674"
+  webhook-url: "https://socialc4c.icdc.io/"
+  name: "Beaver"
+  avatar: "img/bobr.jpg"
+
+logging.level.com.viber: DEBUG
+
+  D:\javaProject\viber-bot-java-master\spring-boot-sample\src\main\resources\application.yml

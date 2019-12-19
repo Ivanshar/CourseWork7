@@ -1,0 +1,16 @@
+D:\javaProject\integrationBot\src\main\java\by\iba\integration\telegram\longpolling\CallBackHandler.java
+D:\javaProject\integrationBot\src\main\java\by\iba\integration\objects\SalesOrder.java
+D:\javaProject\integrationBot\src\main\java\by\iba\integration\telegram\longpolling\Executer.java
+D:\javaProject\integrationBot\src\main\java\by\iba\integration\dataBase\domain\MessageRelation.java
+D:\javaProject\integrationBot\src\main\java\by\iba\integration\dataBase\domain\Message.java
+D:\javaProject\integrationBot\src\main\java\by\iba\integration\myViber\ViberBotMain.java
+D:\javaProject\integrationBot\src\main\java\by\iba\integration\dataBase\domain\UsersID.java
+D:\javaProject\integrationBot\src\main\java\by\iba\integration\oData\OData.java
+D:\javaProject\integrationBot\src\main\java\by\iba\integration\dataBase\repos\UsersIDRepo.java
+D:\javaProject\integrationBot\src\main\java\by\iba\integration\dataBase\repos\MessageRepo.java
+D:\javaProject\integrationBot\src\main\java\by\iba\integration\web\GreetingController.java
+D:\javaProject\integrationBot\src\main\java\by\iba\integration\Application.java
+D:\javaProject\integrationBot\src\main\java\by\iba\integration\dataBase\repos\MessageRelationRepo.java
+D:\javaProject\integrationBot\src\main\java\by\iba\integration\telegram\longpolling\TelegramBot.java
+D:\javaProject\integrationBot\src\main\java\by\iba\integration\telegram\longpolling\MessageSender.java
+D:\javaProject\integrationBot\src\main\java\by\iba\integration\objects\SalesOrderItem.java
